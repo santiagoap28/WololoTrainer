@@ -1,0 +1,72 @@
+{
+  "easy": {
+    "multipleChoice": {
+      "minOptions": 3,
+      "maxOptions": 4,
+      "probability": 0.75
+    },
+    "selectAll": {
+      "minOptions": 5,
+      "maxOptions": 9,
+      "minAnswers": 2,
+      "maxAnswers": 3,
+      "probability": 0.25
+    }
+  },
+  "medium": {
+    "multipleChoice": {
+      "minOptions": 3,
+      "maxOptions": 5,
+      "probability": 0.9
+    },
+    "selectAll": {
+      "minOptions": 6,
+      "maxOptions": 11,
+      "minAnswers": 2,
+      "maxAnswers": 4,
+      "probability": 0.1
+    }
+  },
+  "hard": {
+    "multipleChoice": {
+      "minOptions": 3,
+      "maxOptions": 6,
+      "probability": 0.85
+    },
+    "selectAll": {
+      "minOptions": 7,
+      "maxOptions": 12,
+      "minAnswers": 2,
+      "maxAnswers": 5,
+      "probability": 0.15
+    }
+  },
+  "extreme": {
+    "multipleChoice": {
+      "minOptions": 4,
+      "maxOptions": 7,
+      "probability": 0.8
+    },
+    "selectAll": {
+      "minOptions": 8,
+      "maxOptions": 15,
+      "minAnswers": 3,
+      "maxAnswers": 6,
+      "probability": 0.2
+    }
+  },
+  "legendary": {
+    "multipleChoice": {
+      "minOptions": 5,
+      "maxOptions": 12,
+      "probability": 0.7
+    },
+    "selectAll": {
+      "minOptions": 10,
+      "maxOptions": 25,
+      "minAnswers": 3,
+      "maxAnswers": 7,
+      "probability": 0.3
+    }
+  }
+}

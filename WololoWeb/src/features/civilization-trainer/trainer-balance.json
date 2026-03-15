@@ -1,0 +1,35 @@
+{
+  "easy": {
+    "civilizationRanges": [{ "from": "Armenians", "to": "Byzantines" }]
+  },
+  "medium": {
+    "civilizationRanges": [
+      { "from": "Armenians", "to": "Byzantines" },
+      { "from": "Celts", "to": "Hindustanis" }
+    ]
+  },
+  "hard": {
+    "civilizationRanges": [
+      { "from": "Armenians", "to": "Byzantines" },
+      { "from": "Celts", "to": "Hindustanis" },
+      { "from": "Huns", "to": "Magyars" }
+    ]
+  },
+  "extreme": {
+    "civilizationRanges": [
+      { "from": "Armenians", "to": "Byzantines" },
+      { "from": "Celts", "to": "Hindustanis" },
+      { "from": "Huns", "to": "Magyars" },
+      { "from": "Malay", "to": "Shu" }
+    ]
+  },
+  "legendary": {
+    "civilizationRanges": [
+      { "from": "Armenians", "to": "Byzantines" },
+      { "from": "Celts", "to": "Hindustanis" },
+      { "from": "Huns", "to": "Magyars" },
+      { "from": "Malay", "to": "Shu" },
+      { "from": "Sicilians", "to": "Wu" }
+    ]
+  }
+}

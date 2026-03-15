@@ -1,0 +1,136 @@
+{
+  "easy": {
+    "civilizationRanges": [
+      { "from": "Armenians", "to": "Byzantines" }
+    ],
+    "multipleChoice": {
+      "minOptions": 3,
+      "maxOptions": 4
+    },
+    "combo": {
+      "minOptions": 3,
+      "maxOptions": 4
+    },
+    "matchPairs": {
+      "minOptions": 3,
+      "maxOptions": 4
+    },
+    "variantProbability": {
+      "civ": 0.6,
+      "age": 0.1,
+      "combo": 0.07,
+      "match": 0.08,
+      "search": 0.15
+    }
+  },
+  "medium": {
+    "civilizationRanges": [
+      { "from": "Armenians", "to": "Byzantines" },
+      { "from": "Celts", "to": "Hindustanis" },
+      { "from": "Huns", "to": "Magyars" }
+    ],
+    "multipleChoice": {
+      "minOptions": 3,
+      "maxOptions": 5
+    },
+    "combo": {
+      "minOptions": 3,
+      "maxOptions": 5
+    },
+    "matchPairs": {
+      "minOptions": 3,
+      "maxOptions": 5
+    },
+    "variantProbability": {
+      "civ": 0.57,
+      "age": 0.1,
+      "combo": 0.07,
+      "match": 0.08,
+      "search": 0.18
+    }
+  },
+  "hard": {
+    "civilizationRanges": [
+      { "from": "Armenians", "to": "Byzantines" },
+      { "from": "Celts", "to": "Hindustanis" },
+      { "from": "Huns", "to": "Magyars" },
+      { "from": "Malay", "to": "Shu" },
+      { "from": "Sicilians", "to": "Wu" }
+    ],
+    "multipleChoice": {
+      "minOptions": 4,
+      "maxOptions": 6
+    },
+    "combo": {
+      "minOptions": 4,
+      "maxOptions": 6
+    },
+    "matchPairs": {
+      "minOptions": 4,
+      "maxOptions": 6
+    },
+    "variantProbability": {
+      "civ": 0.4,
+      "age": 0.1,
+      "combo": 0.08,
+      "match": 0.1,
+      "search": 0.32
+    }
+  },
+  "extreme": {
+    "civilizationRanges": [
+      { "from": "Armenians", "to": "Byzantines" },
+      { "from": "Celts", "to": "Hindustanis" },
+      { "from": "Huns", "to": "Magyars" },
+      { "from": "Malay", "to": "Shu" },
+      { "from": "Sicilians", "to": "Wu" }
+    ],
+    "multipleChoice": {
+      "minOptions": 4,
+      "maxOptions": 7
+    },
+    "combo": {
+      "minOptions": 4,
+      "maxOptions": 7
+    },
+    "matchPairs": {
+      "minOptions": 4,
+      "maxOptions": 6
+    },
+    "variantProbability": {
+      "civ": 0.24,
+      "age": 0.1,
+      "combo": 0.1,
+      "match": 0.11,
+      "search": 0.45
+    }
+  },
+  "legendary": {
+    "civilizationRanges": [
+      { "from": "Armenians", "to": "Byzantines" },
+      { "from": "Celts", "to": "Hindustanis" },
+      { "from": "Huns", "to": "Magyars" },
+      { "from": "Malay", "to": "Shu" },
+      { "from": "Sicilians", "to": "Wu" }
+    ],
+    "multipleChoice": {
+      "minOptions": 5,
+      "maxOptions": 9
+    },
+    "combo": {
+      "minOptions": 5,
+      "maxOptions": 9
+    },
+    "matchPairs": {
+      "minOptions": 5,
+      "maxOptions": 6
+    },
+    "variantProbability": {
+      "civ": 0,
+      "age": 0,
+      "combo": 0,
+      "match": 0,
+      "search": 1
+    }
+  }
+}
